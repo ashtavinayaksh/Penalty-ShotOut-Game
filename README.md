@@ -1,4 +1,4 @@
-# Penalty-ShotOut-Game
+# Penalty-ShotOut-Game 🎮
 A simple game of Penalty Shotout based on the pygame package in python...
 # Contributing
 Changes and improvements are more than welcome!
